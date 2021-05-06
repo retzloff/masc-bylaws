@@ -333,6 +333,46 @@ The Vice President shall take the place of th President and perform the duties o
 
 - [ ] ...
 
+### Section 5.1 **Determination of Common Expenses and Assessments Against Unit Owners
+
+- [ ] ...
+
+### Section 5.2 **Payment of Common Expenses**.
+
+- [ ] ...
+
+### Section 5.3 **Collection of Expenses**.
+
+- [ ] ...
+
+### Section 5.4 **Statement of Common Expenses**.
+
+- [ ] ...
+
+### Section 5.5 **Maintenance, Repair, Replacement and Other Common Expenses**.
+
+- [ ] ...
+
+### Section 5.6 **Additions, Alterations or Improvements by the Board of Directors**.
+
+- [ ] ...
+
+### Section 5.7 **Additions, Alterations or Improvements by the Unit Owners**.
+
+- [ ] ...
+
+### Section 5.8 **Restrictions on Use of Units and Common Elements: Rules and Regulations**.
+
+- [ ] ...
+
+- [ ] (a) **Restrictions**.
+
+> > (7) Commercial vehicles, taxicabs, trailers, campers, recreational vehicles, boats and other large vehicles may be parked on the Property only if expressly permitted by the rules and regulations and only in such parking areas, if any, as may be designated for such a purpose by the Board of Directors. All vehicles shall be parked wholly within parking space lines; _provided_, _however_, that any unit owner having the right to use one or more limited common element parking spaces may use any adjacent area not within another unit owners parking space if such space is not otherwise necessary for the use of the Association. The garage areas, including the limited common element parking spaces, shall be used only for parking. Other than as provided above, nothing may be stored, erected, attached to or otherwise placed on the common elements in the parking areas without the prior written consent of the Board of Directors or the Covenants Committee, as appropriate. No junk or derelict vehicle or other vehicle on which current registration plates are not displayed shall be kept upon any of the common elements. Except in areas designated by the Board of Directors, vehicle repairs other than: (i) emergency maintenance, (ii) ordinary light maintenance (expcluding fluid changes and other operations which might soil the common elements) and (iii) normal cleaning (in areas designated by the Board, if any) are not permitted on the common elements.
+
+> > - [ ] (8) ...
+
+> - [ ] (b) **Changes to Rules and Regulations**.
+> 
 ## Article 6 - Insurance
 
 - [ ] ...
