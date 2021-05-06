@@ -36,6 +36,7 @@
 		- [Section 4.7. **Treasurer**.](#section-47-treasurer)
 		- [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents)
 	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
+		- [Section 5.8 **Restrictions on Use of Units and Common Elements: Rules and Regulations**.](#section-58-restrictions-on-use-of-units-and-common-elements-rules-and-regulations)
 	- [Article 6 - Insurance](#article-6---insurance)
 	- [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other)
 	- [Article 8 - Mortgages](#article-8---mortgages)
@@ -333,46 +334,61 @@ The Vice President shall take the place of th President and perform the duties o
 
 - [ ] ...
 
-### Section 5.1 **Determination of Common Expenses and Assessments Against Unit Owners
+### Section 5.1. **Determination of Common Expenses and Assessments Against Unit Owners
 
 - [ ] ...
 
-### Section 5.2 **Payment of Common Expenses**.
+### Section 5.2. **Payment of Common Expenses**.
 
 - [ ] ...
 
-### Section 5.3 **Collection of Expenses**.
+### Section 5.3. **Collection of Expenses**.
 
 - [ ] ...
 
-### Section 5.4 **Statement of Common Expenses**.
+### Section 5.4. **Statement of Common Expenses**.
 
 - [ ] ...
 
-### Section 5.5 **Maintenance, Repair, Replacement and Other Common Expenses**.
+### Section 5.5. **Maintenance, Repair, Replacement and Other Common Expenses**.
 
 - [ ] ...
 
-### Section 5.6 **Additions, Alterations or Improvements by the Board of Directors**.
+### Section 5.6. **Additions, Alterations or Improvements by the Board of Directors**.
 
 - [ ] ...
 
-### Section 5.7 **Additions, Alterations or Improvements by the Unit Owners**.
+### Section 5.7. **Additions, Alterations or Improvements by the Unit Owners**.
 
 - [ ] ...
 
-### Section 5.8 **Restrictions on Use of Units and Common Elements: Rules and Regulations**.
-
-- [ ] ...
+### Section 5.8. **Restrictions on Use of Units and Common Elements: Rules and Regulations**.
 
 - [ ] (a) **Restrictions**.
 
+> > [ ] (1)
+
+> > [ ] (2)
+
+> > [ ] (3)
+
+> > [ ] (4)
+
+> > [ ] (5)
+
+> > [ ] (6)
+
 > > (7) Commercial vehicles, taxicabs, trailers, campers, recreational vehicles, boats and other large vehicles may be parked on the Property only if expressly permitted by the rules and regulations and only in such parking areas, if any, as may be designated for such a purpose by the Board of Directors. All vehicles shall be parked wholly within parking space lines; _provided_, _however_, that any unit owner having the right to use one or more limited common element parking spaces may use any adjacent area not within another unit owners parking space if such space is not otherwise necessary for the use of the Association. The garage areas, including the limited common element parking spaces, shall be used only for parking. Other than as provided above, nothing may be stored, erected, attached to or otherwise placed on the common elements in the parking areas without the prior written consent of the Board of Directors or the Covenants Committee, as appropriate. No junk or derelict vehicle or other vehicle on which current registration plates are not displayed shall be kept upon any of the common elements. Except in areas designated by the Board of Directors, vehicle repairs other than: (i) emergency maintenance, (ii) ordinary light maintenance (expcluding fluid changes and other operations which might soil the common elements) and (iii) normal cleaning (in areas designated by the Board, if any) are not permitted on the common elements.
 
-> > - [ ] (8) ...
+> > [ ] (8) 
+> > [ ] (9) 
+> > [ ] (10) 
+> > 
+> > (11) No unit shall be subjected to or used for any timesharing, cooperative, licensing or other arrangement that would entail weekly, monthly or any other type of revolving or periodic occupancy by multiple unit owners, cooperators, licensees or timesharing participants.
 
-> - [ ] (b) **Changes to Rules and Regulations**.
-> 
+> - (b) **Changes to Rules and Regulations**.
+>  Each unit and the common elements shall be occupied and used in compliance with the rules and regulations which may be promulgated and changed by the Board of Directors. The Board of Directors shall furnish copies of the rules and regulations to each unit owner. Changes to the rules and regulations shall be conspicuously posted prior to the time when the same shall become effective and copies thereof shall by furnished to each unit owner upon request.
+
 ## Article 6 - Insurance
 
 - [ ] ...
