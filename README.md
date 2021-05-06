@@ -366,28 +366,30 @@ The Vice President shall take the place of th President and perform the duties o
 
 - [ ] (a) **Restrictions**.
 
-> > [ ] (1)
+> > - [ ] (1)
 
-> > [ ] (2)
+> > - [ ] (2)
 
-> > [ ] (3)
+> > - [ ] (3)
 
-> > [ ] (4)
+> > - [ ] (4)
 
-> > [ ] (5)
+> > - [ ] (5)
 
-> > [ ] (6)
+> > - [ ] (6)
 
 > > (7) Commercial vehicles, taxicabs, trailers, campers, recreational vehicles, boats and other large vehicles may be parked on the Property only if expressly permitted by the rules and regulations and only in such parking areas, if any, as may be designated for such a purpose by the Board of Directors. All vehicles shall be parked wholly within parking space lines; _provided_, _however_, that any unit owner having the right to use one or more limited common element parking spaces may use any adjacent area not within another unit owners parking space if such space is not otherwise necessary for the use of the Association. The garage areas, including the limited common element parking spaces, shall be used only for parking. Other than as provided above, nothing may be stored, erected, attached to or otherwise placed on the common elements in the parking areas without the prior written consent of the Board of Directors or the Covenants Committee, as appropriate. No junk or derelict vehicle or other vehicle on which current registration plates are not displayed shall be kept upon any of the common elements. Except in areas designated by the Board of Directors, vehicle repairs other than: (i) emergency maintenance, (ii) ordinary light maintenance (expcluding fluid changes and other operations which might soil the common elements) and (iii) normal cleaning (in areas designated by the Board, if any) are not permitted on the common elements.
 
-> > [ ] (8) 
-> > [ ] (9) 
-> > [ ] (10) 
-> > 
+> > - [ ] (8) 
+
+> > (9) Except for such signs as may be posted by the Association or by the Declarant for promotional or marketing purposes, no signs of any character shall be erected, posted or displayed upon, in, from or about any unit or common element without the prior written approval of the Board of Directors. The foregoing provisions of this paragraph shall not apply to a Mortgagee in possession of the unit as a result of foreclosure, judicial sale or a proceeding in lieu of foreclosure.
+
+> > (10) Sufficient carpeting or rugs shall be maintained on a minimum of eighty percent of the floor surfaces (except marble-floored foyers, kitchens, closets and bathrooms) in units located over other units to adequately reduce transmission of sound between units. Additional washers, dryers and other major appliances may not be installed in the unit without the prior written approval of the Covenant's Committee.
+
 > > (11) No unit shall be subjected to or used for any timesharing, cooperative, licensing or other arrangement that would entail weekly, monthly or any other type of revolving or periodic occupancy by multiple unit owners, cooperators, licensees or timesharing participants.
 
-> - (b) **Changes to Rules and Regulations**.
->  Each unit and the common elements shall be occupied and used in compliance with the rules and regulations which may be promulgated and changed by the Board of Directors. The Board of Directors shall furnish copies of the rules and regulations to each unit owner. Changes to the rules and regulations shall be conspicuously posted prior to the time when the same shall become effective and copies thereof shall by furnished to each unit owner upon request.
+> (b) **Changes to Rules and Regulations**.
+Each unit and the common elements shall be occupied and used in compliance with the rules and regulations which may be promulgated and changed by the Board of Directors. The Board of Directors shall furnish copies of the rules and regulations to each unit owner. Changes to the rules and regulations shall be conspicuously posted prior to the time when the same shall become effective and copies thereof shall by furnished to each unit owner upon request.
 
 ## Article 6 - Insurance
 
