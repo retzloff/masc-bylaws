@@ -316,7 +316,7 @@ The President shall: be the chief executive of the Unit Owners Association; pres
 
 ### Section 4.5. **Vice President**.
 
-The Vice President shall take the place of th President and perform the duties of the President whenever the President shall be absent or unable to act. If neither the President nor the Vice President is able to act, the Board of Directors shall appoint some other director to act in the place of the President on an interim basis. The Vice President shall also perform such othe rduties as shall from time to time be impoosed by the Board of Directors or by the President.
+The Vice President shall take the place of the President and perform the duties of the President whenever the President shall be absent or unable to act. If neither the President nor the Vice President is able to act, the Board of Directors shall appoint some other director to act in the place of the President on an interim basis. The Vice President shall also perform such othe rduties as shall from time to time be impoosed by the Board of Directors or by the President.
 
 ### Section 4.6. **Secretary**.
 
