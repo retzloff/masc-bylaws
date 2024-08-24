@@ -176,7 +176,7 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 (13) Notify a Mortgagee of any default hereunder by the unit owner of the unit subject to such Mortgage, if such default continues for more than sixty days.
 
-- [ ] (14) ...
+-  (14) Borrow money on behalf of the Condominium when required in connection with any one instance relating to the operation, care, upkeep and maintenance of the common elements; provided, however, that (except during the Declarant Control Period) either a Majority Vote obtained at a meeting duly called and held for such purpose in accordance with the provisions of these Bylaws or the written approval of unit owners of units to which more than fifty percent of the votes in the Association appertain, shall be required to borrow any sum in excess of one percent of the total annual assessment for common expenses for that fiscal year. If any sum borrowed by the Board of Directors on behalf of the Condominium pursuant to the authority contained in this paragraph (14) is not repaid by the Association, a unit owner who pays to the creditor a percentage of the total amount due equal to such unit owner's Common Element Interest in the Condominium shall be entitled to obtain from the creditor a release of any judgment or other lien which such creditor shall have filed or shall have the right to file against such unit owner's condominium unit, and the Association shall not be entitled to assess the unit for payment of the remaining amount due such creditor.
 
 (15) Acquire, hold and dispose of condominium units and mortgage the same without the prior approval of the Association if such expenditures and hypothecations are included in the budget adopted by the Association.
 
