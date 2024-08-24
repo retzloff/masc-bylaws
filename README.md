@@ -190,9 +190,10 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 ### Section 3.2. **Managing Agent**.
 
-> - [ ] (a) **Requirements**.
+> - [ ] (a) **Requirements**. The managing agent shall be a bona fide business enterprise, unaffiliated with the Declarant, which manages common interest residential communities. Such firm (either directly or through affiliated of predecessor firms) or its principals shall have a minimum of two years experience in real estate community management and shall employ persons possessing a high level of competence in the technical skills necessary to proper management of the Condominium. The managing agent must be able to advise the Board of Directors regarding the administrative operation of the Condominium and shall employ personnel knowledgeable in the areas of condominium insurance, accounting, contract negotiation, labor relations and condominium regulation.
 
-> - [ ] (b) **Duties**.
+> - [ ] (b) **Duties**. The managing agent shall perform such duties and services as the Board of Directors shall direct. Such duties and services may include, without limitation, the duties listed in paragraphs (1), (3), (4), (5), (8), (9), (10), (11), (12), (13), (18) and (19) of Section
+3.1. The Board of Directors may delegate to the managing agent all of the powers granted to the Board of Directors by these Bylaws other than the powers set forth in paragraphs (2), (6), (7), (14), (15), (16) and (17) of Section 3.1. The managing agent shall perform the obligations, duties and services relating to the management of the Property, the rights of Mortgagees and the maintenance of reserve funds in compliance with the provisions of these Bylaws.
 
 > - [ ] (c) **Standards**.
 
