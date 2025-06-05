@@ -221,7 +221,7 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 > > (F) a "delinquency report" listing all unit owners who are delinquent in paying condominium assessments and describing the status of any actions to collect such assessments.
 
- [ ] (d) **Limitations**. During the Declarant...
+ (d) **Limitations**. During the Declarant Control Period, the Board of Directors shall employ a managing agent for an initial term not to exceed one year. The Association and the Board of Directors shall not undertake "self-management" or fail to employ a managing agent without the prior consent of at least sixty-seven percent of unit owners and at least fifty-one percent of the Mortgagees. Any contract with the managing agent must provide that it may be terminated, without payment of a termination fee, without cause on no more than ninety days written notice and with cause on no more than thirty days written notice.
 
 ### Section 3.3. **Number and Term of Office**.
 
@@ -232,7 +232,7 @@ shall be entitled to designate directors not elected pursuant to Section 2.4. Th
 
 ### Section 3.4. **Election of Directors**.
 
-> - [ ] (a) **Elections Committee**.
+> - [ ] (a) **Elections Committee**. 
 
 > - [ ] (b) **Nominations**.
 
